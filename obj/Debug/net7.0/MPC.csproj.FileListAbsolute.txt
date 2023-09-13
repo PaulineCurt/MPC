@@ -1,0 +1,14 @@
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\bin\Debug\net7.0\MPC.exe
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\bin\Debug\net7.0\MPC.deps.json
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\bin\Debug\net7.0\MPC.runtimeconfig.json
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\bin\Debug\net7.0\MPC.dll
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\bin\Debug\net7.0\MPC.pdb
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\obj\Debug\net7.0\MPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\obj\Debug\net7.0\MPC.AssemblyInfoInputs.cache
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\obj\Debug\net7.0\MPC.AssemblyInfo.cs
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\obj\Debug\net7.0\MPC.csproj.CoreCompileInputs.cache
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\obj\Debug\net7.0\MPC.dll
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\obj\Debug\net7.0\refint\MPC.dll
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\obj\Debug\net7.0\MPC.pdb
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\obj\Debug\net7.0\MPC.genruntimeconfig.cache
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\MPC\obj\Debug\net7.0\ref\MPC.dll
